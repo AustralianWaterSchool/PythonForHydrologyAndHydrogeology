@@ -1,4 +1,9 @@
-numpy
-scipy
-matplotlib
-flopy
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+ 
