@@ -6,4 +6,4 @@ dependencies:
   - scipy
   - pandas
   - matplotlib
- 
+  - xlrd
