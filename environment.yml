@@ -8,5 +8,5 @@ dependencies:
   - matplotlib
   - xlrd
   - openpyxl
-  - sklearn
+  - scikit-learn
   
