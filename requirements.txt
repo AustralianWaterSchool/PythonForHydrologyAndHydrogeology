@@ -4,4 +4,4 @@ pandas
 matplotlib
 xlrd
 openpyxl
-sklearn
+scikit-learn
