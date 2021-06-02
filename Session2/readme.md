@@ -1,4 +1,4 @@
-# Session2
+# Session 2
 
 Materials for session #2 of the Python for Hydrology and Hydrogeology course will be uploaded here. Stay tuned!
 
