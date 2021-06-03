@@ -2,7 +2,7 @@
 
 Materials for session #2 of the Python for Hydrology and Hydrogeology course will be uploaded here. Stay tuned!
 
-[//]:#(Click on the "launch binder" link below to open an interactive version of the Jupyter notebook for Session #1.)
+[\\]:#(Click on the "launch binder" link below to open an interactive version of the Jupyter notebook for Session #1.)
 
 [//]:#([![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session2%2FSession2.ipynb))
 
