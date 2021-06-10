@@ -2,10 +2,10 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy-1.16.5
-  - scipy-1.2.1
-  - pandas-0.24.2
-  - matplotlib-2.2.3
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
   - xlrd
   - openpyxl
   - scikit-learn
