@@ -1,7 +1,7 @@
-numpy
-scipy
-pandas
-matplotlib
+numpy-1.16.5
+scipy-1.2.1
+pandas-0.24.2
+matplotlib-2.2.3
 xlrd
 openpyxl
 scikit-learn
