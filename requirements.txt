@@ -2,6 +2,8 @@ numpy
 scipy
 pandas
 matplotlib
+lmfit
+geopandas
 xlrd
 openpyxl
 scikit-learn
