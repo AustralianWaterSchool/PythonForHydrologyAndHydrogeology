@@ -1,8 +1,0 @@
-numpy
-scipy
-pandas
-matplotlib
-lmfit
-xlrd
-openpyxl
-scikit-learn
