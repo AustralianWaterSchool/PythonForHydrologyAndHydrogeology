@@ -9,21 +9,13 @@ Materials for session #3 of the Python for Hydrology and Hydrogeology course wil
 <!-- If the link above repeatedly fails to load, or is unstable, you can follow the following link instead: -->
 
 
-For the 3-D flowlines exercise:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2F3d_flowlines_exercise.ipynb)
+For the 3-D flowlines exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2F3d_flowlines_exercise.ipynb)
 
 
-For the KML exercise:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Fkml_exercise.ipynb)
+For the KML exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Fkml_exercise.ipynb)
 
 
-For the Theis drawdown optimisation exercise:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Ftheis_drawdown_optimisation.ipynb)
+For the Theis drawdown optimisation exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Ftheis_drawdown_optimisation.ipynb)
 
 
-For the Theis animation exercise:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Fanimate_theis.ipynb.ipynb)
+For the Theis animation exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Fanimate_theis.ipynb.ipynb)
