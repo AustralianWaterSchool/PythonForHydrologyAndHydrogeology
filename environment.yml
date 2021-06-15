@@ -12,3 +12,4 @@ dependencies:
   - xlrd
   - openpyxl
   - scikit-learn
+  - geopandas-0.5.0
