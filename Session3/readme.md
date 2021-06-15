@@ -20,4 +20,4 @@ For the KML exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://m
 For the Theis drawdown optimisation exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Ftheis_drawdown_optimisation.ipynb)
 
 
-For the Theis animation exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Fanimate_theis.ipynb.ipynb)
+For the Theis animation exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologyAndHydrogeology/main?filepath=Session3%2Fanimate_theis.ipynb)
