@@ -22,7 +22,7 @@ If the link above repeatedly fails to load, or is unstable, you can follow the f
 
 ## Course session materials
 
-Materials for sessions 1, 2 and 3 of the course are contained in the relevant folders of the repository, located above.
+Materials for sessions 1, 2 and 3 of the course are contained in the relevant folders of the repository, located above. (If no files are visible, just click on "View code".)
 
 ## The Australian Water School
 
