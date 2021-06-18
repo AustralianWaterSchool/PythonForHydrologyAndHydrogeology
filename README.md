@@ -19,3 +19,7 @@ Click on the "launch binder" link below to open an interactive version of the in
 If the link above repeatedly fails to load, or is unstable, you can follow the following link instead:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologists/main?filepath=waterra_python_intro.ipynb)
+
+## The Australian Water School
+
+For more information on past and future webinars and training courses offered by the Australian Water School visit: https://awschool.com.au/
