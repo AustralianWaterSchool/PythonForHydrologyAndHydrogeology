@@ -20,6 +20,10 @@ If the link above repeatedly fails to load, or is unstable, you can follow the f
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AustralianWaterSchool/PythonForHydrologists/main?filepath=waterra_python_intro.ipynb)
 
+## Course session materials
+
+Materials for sessions 1, 2 and 3 of the course are contained in the relevant folders of the repository, located above.
+
 ## The Australian Water School
 
 For more information on past and future webinars and training courses offered by the Australian Water School visit: https://awschool.com.au/
